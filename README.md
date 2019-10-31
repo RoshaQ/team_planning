@@ -104,7 +104,7 @@ The list is open :unlock:
 | Marek M      |                    |                    |
 | Dariusz P    |                    |                    |
 | Adam P       |                    |                    |
-| Mikolaj R    |       :new:        |      :new:         |
+| Mikolaj R    |       :x:          |      :x:           |
 | Rostyslav S  |                    |                    |
 | Marcin S     |                    |                    |
 | Mieczyslaw S |                    |                    |
